@@ -1,0 +1,15 @@
+.backgroundPattern {
+  width: 100%;
+  height: 30%;
+  background-image: url("/src/assets/images/background-pattern-mobile.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+
+@media (min-width: 45rem) {
+  .backgroundPattern {
+    background-image: url("/src/assets/images/background-pattern-desktop.svg");
+    height: 35%;
+  }
+}

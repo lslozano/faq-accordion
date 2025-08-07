@@ -1,0 +1,32 @@
+.faqCardContainer {
+  position: absolute;
+  width: 100%;
+  max-width: 370px;
+  height: fit-content;
+  padding: 24px;
+  margin: auto;
+  inset: 0;
+  background-color: var(--white);
+  border-radius: 8px;
+}
+
+.cardTitle {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: center;
+}
+
+.cardTitle h1 {
+  font-family: "Work Sans", sans-serif;
+  font-weight: var(--weight-bold);
+  font-size: 2rem;
+  color: var(--purple-950);
+}
+
+@media (min-width: 45rem) {
+  .faqCardContainer {
+    max-width: 700px;
+    padding: 32px;
+  }
+}
