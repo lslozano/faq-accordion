@@ -29,7 +29,14 @@ Users should be able to:
 
 #### Mobile
 
+<img width="429" height="859" alt="Mobile" src="https://github.com/user-attachments/assets/4b11fc78-58b0-40e9-85ea-6f98ea12100d" />
+
+
 #### Desktop
+
+<img width="1242" height="858" alt="Desktop" src="https://github.com/user-attachments/assets/781213a6-def2-4250-bfc6-ffcf289aa92b" />
+
+
 
 ### Links
 
