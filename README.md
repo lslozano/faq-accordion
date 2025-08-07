@@ -37,11 +37,10 @@ Users should be able to:
 <img width="1242" height="858" alt="Desktop" src="https://github.com/user-attachments/assets/781213a6-def2-4250-bfc6-ffcf289aa92b" />
 
 
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Repository](https://github.com/lslozano/faq-accordion)
+- Live Site URL: [Solution Deployed](https://lslozano.github.io/faq-accordion/)
 
 ## My process
 
