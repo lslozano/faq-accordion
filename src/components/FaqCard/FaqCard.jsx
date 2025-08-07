@@ -1,5 +1,7 @@
 import React from "react";
 
+import starIcon from "../../assets/images/icon-star.svg";
+
 import styles from "./FaqCard.module.css";
 import questions from "./questions";
 
@@ -9,17 +11,12 @@ const FaqCard = () => {
   return (
     <article className={styles.faqCardContainer}>
       <div className={styles.cardTitle}>
-        <picture
-          srcSet="/src/assets/images/icon-star.svg"
-          type="image/svg"
-        >
-          <img
-            src="/src/assets/images/icon-star.svg"
-            alt=""
-            width="30"
-            height="30"
-          />
-        </picture>
+        <img
+          src={starIcon}
+          alt="Star icon"
+          width="30"
+          height="30"
+        />
         <h1>FAQs</h1>
       </div>
       <Accordion items={questions} />
